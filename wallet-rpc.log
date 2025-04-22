@@ -1,0 +1,33 @@
+2025-04-22 22:26:49.100	    7e2fc17cbe80	INFO	logging	contrib/epee/src/mlog.cpp:273	New log categories: *:WARNING,net:FATAL,net.http:FATAL,net.ssl:FATAL,net.p2p:FATAL,net.cn:FATAL,daemon.rpc:FATAL,global:INFO,verify:FATAL,serialization:FATAL,daemon.rpc.payment:ERROR,stacktrace:INFO,logging:INFO,msgwriter:INFO
+2025-04-22 22:26:49.101	    7e2fc17cbe80	INFO	msgwriter	src/common/scoped_message_writer.h:102	This is the RPC monero wallet. It needs to connect to a monero
+2025-04-22 22:26:49.101	    7e2fc17cbe80	INFO	msgwriter	src/common/scoped_message_writer.h:102	daemon to work correctly.
+2025-04-22 22:26:49.101	    7e2fc17cbe80	INFO	msgwriter	src/common/scoped_message_writer.h:102	Monero 'Fluorine Fermi' (v0.18.3.1-unknown)
+2025-04-22 22:26:49.101	    7e2fc17cbe80	INFO	msgwriter	src/common/scoped_message_writer.h:102	Logging to /root/apache_monero/wallet-rpc.log
+2025-04-22 22:26:49.103	    7e2fc17cbe80	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4588	Loading wallet...
+2025-04-22 22:27:04.692	    7e2fc17cbe80	WARNING	wallet.wallet2	src/wallet/wallet2.cpp:6115	Loaded wallet keys file, with public address: 4A4aHGDinKr4hm1dcey1HA5GFBxqAirp3ZkaUCtNzdc7cD4UBFaohefEZvi1dmaeggUx8bhi2yJSY8qgLUdpHkgSEHTfeNe
+2025-04-22 22:27:56.493	    7e2fc17cbe80	INFO	global	contrib/epee/include/net/http_server_impl_base.h:79	Binding on 127.0.0.1 (IPv4):18083
+2025-04-22 22:27:58.625	    7e2fc17cbe80	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4660	Starting wallet RPC server
+2025-04-22 22:44:53.866	[SRV_MAIN]	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4670	Stopped wallet RPC server
+2025-04-22 22:44:53.866	[SRV_MAIN]	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4673	Saving wallet...
+2025-04-22 22:44:54.004	[SRV_MAIN]	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4675	Successfully saved
+2025-04-22 22:45:05.354	    754b07321e80	INFO	logging	contrib/epee/src/mlog.cpp:273	New log categories: *:WARNING,net:FATAL,net.http:FATAL,net.ssl:FATAL,net.p2p:FATAL,net.cn:FATAL,daemon.rpc:FATAL,global:INFO,verify:FATAL,serialization:FATAL,daemon.rpc.payment:ERROR,stacktrace:INFO,logging:INFO,msgwriter:INFO
+2025-04-22 22:45:05.354	    754b07321e80	INFO	msgwriter	src/common/scoped_message_writer.h:102	This is the RPC monero wallet. It needs to connect to a monero
+2025-04-22 22:45:05.354	    754b07321e80	INFO	msgwriter	src/common/scoped_message_writer.h:102	daemon to work correctly.
+2025-04-22 22:45:05.355	    754b07321e80	INFO	msgwriter	src/common/scoped_message_writer.h:102	Monero 'Fluorine Fermi' (v0.18.3.1-unknown)
+2025-04-22 22:45:05.355	    754b07321e80	INFO	msgwriter	src/common/scoped_message_writer.h:102	Logging to /root/apache_monero/wallet-rpc.log
+2025-04-22 22:45:05.356	    754b07321e80	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4588	Loading wallet...
+2025-04-22 22:45:21.685	    754b07321e80	WARNING	wallet.wallet2	src/wallet/wallet2.cpp:6115	Loaded wallet keys file, with public address: 4A4aHGDinKr4hm1dcey1HA5GFBxqAirp3ZkaUCtNzdc7cD4UBFaohefEZvi1dmaeggUx8bhi2yJSY8qgLUdpHkgSEHTfeNe
+2025-04-22 22:45:26.162	    754b07321e80	INFO	global	contrib/epee/include/net/http_server_impl_base.h:79	Binding on 127.0.0.1 (IPv4):18083
+2025-04-22 22:45:27.181	    754b07321e80	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4660	Starting wallet RPC server
+2025-04-22 22:49:39.728	[SRV_MAIN]	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4670	Stopped wallet RPC server
+2025-04-22 22:49:39.728	[SRV_MAIN]	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4673	Saving wallet...
+2025-04-22 22:49:39.863	[SRV_MAIN]	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4675	Successfully saved
+2025-04-22 22:50:13.171	    7c10ec120e80	INFO	logging	contrib/epee/src/mlog.cpp:273	New log categories: *:WARNING,net:FATAL,net.http:FATAL,net.ssl:FATAL,net.p2p:FATAL,net.cn:FATAL,daemon.rpc:FATAL,global:INFO,verify:FATAL,serialization:FATAL,daemon.rpc.payment:ERROR,stacktrace:INFO,logging:INFO,msgwriter:INFO
+2025-04-22 22:50:13.171	    7c10ec120e80	INFO	msgwriter	src/common/scoped_message_writer.h:102	This is the RPC monero wallet. It needs to connect to a monero
+2025-04-22 22:50:13.171	    7c10ec120e80	INFO	msgwriter	src/common/scoped_message_writer.h:102	daemon to work correctly.
+2025-04-22 22:50:13.172	    7c10ec120e80	INFO	msgwriter	src/common/scoped_message_writer.h:102	Monero 'Fluorine Fermi' (v0.18.3.1-unknown)
+2025-04-22 22:50:13.172	    7c10ec120e80	INFO	msgwriter	src/common/scoped_message_writer.h:102	Logging to /root/apache_monero/wallet-rpc.log
+2025-04-22 22:50:13.173	    7c10ec120e80	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4588	Loading wallet...
+2025-04-22 22:50:33.193	    7c10ec120e80	WARNING	wallet.wallet2	src/wallet/wallet2.cpp:6115	Loaded wallet keys file, with public address: 4A4aHGDinKr4hm1dcey1HA5GFBxqAirp3ZkaUCtNzdc7cD4UBFaohefEZvi1dmaeggUx8bhi2yJSY8qgLUdpHkgSEHTfeNe
+2025-04-22 22:51:05.719	    7c10ec120e80	INFO	global	contrib/epee/include/net/http_server_impl_base.h:79	Binding on 127.0.0.1 (IPv4):18083
+2025-04-22 22:51:07.076	    7c10ec120e80	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4660	Starting wallet RPC server

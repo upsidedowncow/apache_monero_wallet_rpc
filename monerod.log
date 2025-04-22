@@ -1,0 +1,45 @@
+2025-04-22 22:00:18.092	I Monero 'Fluorine Fermi' (v0.18.3.1-unknown)
+2025-04-22 22:00:18.092	I Initializing cryptonote protocol...
+2025-04-22 22:00:18.092	I Cryptonote protocol initialized OK
+2025-04-22 22:00:18.093	I Initializing core...
+2025-04-22 22:00:18.093	I Loading blockchain from folder /root/.bitmonero/lmdb ...
+2025-04-22 22:00:18.178	I Loading checkpoints
+2025-04-22 22:00:18.178	I Core initialized OK
+2025-04-22 22:00:18.178	I Initializing p2p server...
+2025-04-22 22:00:18.182	I p2p server initialized OK
+2025-04-22 22:00:18.182	I Initializing core RPC server...
+2025-04-22 22:00:18.182	I Binding on 127.0.0.1 (IPv4):18081
+2025-04-22 22:00:18.207	I core RPC server initialized OK on port: 18081
+2025-04-22 22:00:18.207	I Starting core RPC server...
+2025-04-22 22:00:18.208	I core RPC server started ok
+2025-04-22 22:00:18.208	I Starting p2p net loop...
+2025-04-22 22:00:19.208	I 
+2025-04-22 22:00:19.208	I **********************************************************************
+2025-04-22 22:00:19.208	I The daemon will start synchronizing with the network. This may take a long time to complete.
+2025-04-22 22:00:19.208	I 
+2025-04-22 22:00:19.208	I You can set the level of process detailization through "set_log <level|categories>" command,
+2025-04-22 22:00:19.208	I where <level> is between 0 (no details) and 4 (very verbose), or custom category based levels (eg, *:WARNING).
+2025-04-22 22:00:19.208	I 
+2025-04-22 22:00:19.208	I Use the "help" command to see the list of available commands.
+2025-04-22 22:00:19.208	I Use "help <command>" to see a command's documentation.
+2025-04-22 22:00:19.208	I **********************************************************************
+2025-04-22 22:00:19.368	W Invalid DNSSEC TXT record signature for updates.moneropulse.no: validation failure <updates.moneropulse.no. TXT IN>: covering NSEC3 was not opt-out in an opt-out DS NOERROR/NODATA case from 127.0.0.53 for DS moneropulse.no. while building chain of trust
+2025-04-22 22:00:19.368	I Version 0.18.3.4 of monero for source is available: https://downloads.getmonero.org/source/monero-source-v0.18.3.4.tar.bz2, SHA256 hash 7d4845ec0a3b52404d41785da348ec33509f0a5981e8a27c5fa55b18d696e139
+2025-04-22 22:00:19.368	W Free space is below 1 GB on /root/.bitmonero
+2025-04-22 22:00:19.401	I [104.36.87.200:18080 OUT] Sync data returned a new top block candidate: 1354232 -> 3395879 [Your node is 2041647 blocks (7.8 years) behind] 
+2025-04-22 22:00:19.401	I SYNCHRONIZATION started
+2025-04-22 22:00:20.656	W Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:20.657	E Exception in cleanup_handle_incoming_blocks: Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:21.548	W Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:21.551	E Exception in cleanup_handle_incoming_blocks: Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:24.006	W Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:24.008	E Exception in cleanup_handle_incoming_blocks: Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:29.808	W Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:29.813	E Exception in cleanup_handle_incoming_blocks: Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:30.179	W Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:30.181	E Exception in cleanup_handle_incoming_blocks: Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:33.197	W Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:33.199	E Exception in cleanup_handle_incoming_blocks: Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:44.429	W Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:44.432	E Exception in cleanup_handle_incoming_blocks: Failed to commit a transaction to the db: Input/output error
+2025-04-22 22:00:49.288	W Failed to commit a transaction to the db: Input/output 
