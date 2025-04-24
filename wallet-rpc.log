@@ -31,3 +31,6 @@
 2025-04-22 22:50:33.193	    7c10ec120e80	WARNING	wallet.wallet2	src/wallet/wallet2.cpp:6115	Loaded wallet keys file, with public address: 4A4aHGDinKr4hm1dcey1HA5GFBxqAirp3ZkaUCtNzdc7cD4UBFaohefEZvi1dmaeggUx8bhi2yJSY8qgLUdpHkgSEHTfeNe
 2025-04-22 22:51:05.719	    7c10ec120e80	INFO	global	contrib/epee/include/net/http_server_impl_base.h:79	Binding on 127.0.0.1 (IPv4):18083
 2025-04-22 22:51:07.076	    7c10ec120e80	WARNING	wallet.rpc	src/wallet/wallet_rpc_server.cpp:4660	Starting wallet RPC server
+2025-04-24 03:30:16.131	[RPC0]	WARNING	wallet.wallet2	src/wallet/wallet2.cpp:4231	Detaching blockchain on height 3396782
+2025-04-24 03:30:16.133	[RPC0]	WARNING	wallet.wallet2	src/wallet/wallet2.cpp:4316	Detached blockchain on height 3396782, transfers detached 0, blocks detached 1
+2025-04-24 20:23:08.271	[RPC0]	WARNING	wallet.wallet2	src/wallet/wallet2.cpp:2523	Received money: 0.000000100000, with tx: <41a2f3d656cd4cf5003936c6e595f18f3531f70f38da6f32908471b4e70c60c9>
