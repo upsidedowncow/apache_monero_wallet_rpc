@@ -43,3 +43,6 @@ THIS TAKES A SECOND TO START, IT WILL LOG "Starting wallet RPC server" when done
 
 ## 9. Copy monero.php into /var/www/html/
 ## 10. Test the script by going to http://ipaddress/monero.php
+
+# Features
+The Monero Wallet Balance and its transactions can be retrieved by querying the monero-wallet-rpc. Subaddresses can be created for each client, and you can track exactly how much each subaddress has received in atomic units.
